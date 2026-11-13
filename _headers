@@ -1,0 +1,11 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: no-cache
+/manifest.plist
+  Content-Type: application/xml; charset=utf-8
+/downloads/*.ipa
+  Content-Type: application/octet-stream
+/downloads/*.apk
+  Content-Type: application/vnd.android.package-archive

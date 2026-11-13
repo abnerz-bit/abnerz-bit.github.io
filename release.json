@@ -1,0 +1,31 @@
+{
+  "released": "2026-11-13",
+  "base_url": "https://abnerz-bit.github.io",
+  "channel": "test",
+  "ios": {
+    "version": "3.0.18",
+    "build": "242",
+    "bundle_id": "com.il8k.tt",
+    "display_name": "DL Vision",
+    "default_server_url": "ws://34.92.43.40:8080",
+    "minimum_os": "16.6",
+    "signing": "ad-hoc; registered devices only",
+    "valid_until_utc": "2027-08-24T05:56:40Z",
+    "source_commit": "472234a5ab451245a78d35a0579c91bf4732630f",
+    "file": "/downloads/DL-Vision-3.0.18-242-472234a.ipa",
+    "sha256": "697ccf1ab55c22d917286a29107e9408a2b9843ae380a28f6a0091dcd2979b0e",
+    "bytes": 1694857
+  },
+  "android": {
+    "version": "3.0.19",
+    "build": "29",
+    "package_id": "com.cloudpokerai.android",
+    "minimum_os": "10",
+    "signing": "debug",
+    "default_server_url": "ws://34.92.43.40:8080",
+    "source_commit": "834c9b85bef2e0da7579a22193078804b2c4d2af",
+    "file": "/downloads/dl-vision-android-3.0.19-29-834c9b8.apk",
+    "sha256": "118dc0dc4a8c1a6b5d5fe82ec057f78d5f82fe9b37286cdb1237909e8568903a",
+    "bytes": 4714846
+  }
+}
