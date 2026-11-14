@@ -1,5 +1,5 @@
 {
-  "released": "2026-11-13",
+  "released": "2026-11-14",
   "base_url": "https://abnerz-bit.github.io",
   "channel": "test",
   "ios": {
@@ -17,15 +17,15 @@
     "bytes": 1694857
   },
   "android": {
-    "version": "3.0.19",
-    "build": "29",
+    "version": "3.0.21",
+    "build": "32",
     "package_id": "com.cloudpokerai.android",
     "minimum_os": "10",
     "signing": "debug",
     "default_server_url": "ws://34.92.43.40:8080",
-    "source_commit": "834c9b85bef2e0da7579a22193078804b2c4d2af",
-    "file": "/downloads/dl-vision-android-3.0.19-29-834c9b8.apk",
-    "sha256": "118dc0dc4a8c1a6b5d5fe82ec057f78d5f82fe9b37286cdb1237909e8568903a",
-    "bytes": 4714846
+    "source_commit": "0223bf4a3e14273bf821a1a97e261acd8ae029c0",
+    "file": "/downloads/dl-vision-android-3.0.21-32-0223bf4.apk",
+    "sha256": "743cd9f591212f4033e7984d6099aff9da141a9e643f4666ed4bf1ac90e7e4a4",
+    "bytes": 4782262
   }
 }
