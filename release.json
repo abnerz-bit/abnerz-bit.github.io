@@ -17,15 +17,15 @@
     "bytes": 1694857
   },
   "android": {
-    "version": "3.0.26",
-    "build": "39",
+    "version": "3.0.28",
+    "build": "42",
     "package_id": "com.cloudpokerai.android",
     "minimum_os": "10",
     "signing": "debug",
     "default_server_url": "ws://34.92.43.40:8080",
-    "source_commit": "7c49533d6380e18ce677fb0dab4ee161b637d844",
-    "file": "/downloads/cloud-poker-ai-android-3.0.26-39-7c49533-debug.apk",
-    "sha256": "87488ee615670903a395f85a73eca348e6dbac746cf4de55d28b6b13421abea0",
-    "bytes": 4791946
+    "source_commit": "25a923ae4e59bef64035d08a53af455dbd82aa9b",
+    "file": "/downloads/cloud-poker-ai-android-3.0.28-42-25a923a-debug.apk",
+    "sha256": "58291ec4d3bf9da0a24dbae345faf9dc5b4d64a65a897e3800f08eb8fce69dee",
+    "bytes": 4792330
   }
 }
