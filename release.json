@@ -1,5 +1,5 @@
 {
-  "released": "2026-11-16",
+  "released": "2026-11-17",
   "base_url": "https://abnerz-bit.github.io",
   "channel": "test",
   "ios": {
@@ -17,15 +17,15 @@
     "bytes": 1694857
   },
   "android": {
-    "version": "3.0.28",
-    "build": "42",
+    "version": "3.0.29",
+    "build": "43",
     "package_id": "com.cloudpokerai.android",
     "minimum_os": "10",
     "signing": "debug",
     "default_server_url": "ws://34.92.43.40:8080",
-    "source_commit": "25a923ae4e59bef64035d08a53af455dbd82aa9b",
-    "file": "/downloads/cloud-poker-ai-android-3.0.28-42-25a923a-debug.apk",
-    "sha256": "58291ec4d3bf9da0a24dbae345faf9dc5b4d64a65a897e3800f08eb8fce69dee",
-    "bytes": 4792330
+    "source_commit": "7f96ecb2366fb7c2266563de5f437143de81e2d4",
+    "file": "/downloads/cloud-poker-ai-android-3.0.29-43-7f96ecb-debug.apk",
+    "sha256": "f8053a146832f95b997c7ab0724677a10ee1dd2517a20f1073a9dbc19a57fc8f",
+    "bytes": 4792190
   }
 }
