@@ -3,18 +3,18 @@
   "base_url": "https://abnerz-bit.github.io",
   "channel": "test",
   "ios": {
-    "version": "3.0.21",
-    "build": "249",
+    "version": "3.0.22",
+    "build": "250",
     "bundle_id": "com.il8k.tt",
     "display_name": "DL Vision",
     "default_server_url": "ws://34.92.43.40:8080",
     "minimum_os": "16.6",
     "signing": "ad-hoc; registered devices only",
     "valid_until_utc": "2027-08-24T05:56:40Z",
-    "source_commit": "116c50d754b726e2b665bb9b5966b60182c16cd5",
-    "file": "/downloads/cloud-poker-ai-ios-3.0.21-249-116c50d.ipa",
-    "sha256": "822192bd7346f23cb3865648bf51a958fe1329b53d25c8b3fdb6a0ba82bbac78",
-    "bytes": 2214526
+    "source_commit": "86ed47c9d9ce3e5a90849e47bf9a75d2355d02d7",
+    "file": "/downloads/cloud-poker-ai-ios-3.0.22-250-86ed47c.ipa",
+    "sha256": "fd052b1eb702d574245b246e8a7b757ec2af2360901a2e6e5c853fae6ab3f0af",
+    "bytes": 2214521
   },
   "android": {
     "version": "3.0.31",
