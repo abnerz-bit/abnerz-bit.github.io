@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://abnerz-bit.github.io/downloads/DL-Vision-3.0.18-242-472234a.ipa</string>
+					<string>https://abnerz-bit.github.io/downloads/cloud-poker-ai-ios-3.0.21-249-116c50d.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.il8k.tt</string>
 				<key>bundle-version</key>
-				<string>242</string>
+				<string>249</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>

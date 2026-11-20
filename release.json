@@ -1,31 +1,31 @@
 {
-  "released": "2026-11-17",
+  "released": "2026-11-20",
   "base_url": "https://abnerz-bit.github.io",
   "channel": "test",
   "ios": {
-    "version": "3.0.18",
-    "build": "242",
+    "version": "3.0.21",
+    "build": "249",
     "bundle_id": "com.il8k.tt",
     "display_name": "DL Vision",
     "default_server_url": "ws://34.92.43.40:8080",
     "minimum_os": "16.6",
     "signing": "ad-hoc; registered devices only",
     "valid_until_utc": "2027-08-24T05:56:40Z",
-    "source_commit": "472234a5ab451245a78d35a0579c91bf4732630f",
-    "file": "/downloads/DL-Vision-3.0.18-242-472234a.ipa",
-    "sha256": "697ccf1ab55c22d917286a29107e9408a2b9843ae380a28f6a0091dcd2979b0e",
-    "bytes": 1694857
+    "source_commit": "116c50d754b726e2b665bb9b5966b60182c16cd5",
+    "file": "/downloads/cloud-poker-ai-ios-3.0.21-249-116c50d.ipa",
+    "sha256": "822192bd7346f23cb3865648bf51a958fe1329b53d25c8b3fdb6a0ba82bbac78",
+    "bytes": 2214526
   },
   "android": {
-    "version": "3.0.30",
-    "build": "44",
+    "version": "3.0.31",
+    "build": "47",
     "package_id": "com.cloudpokerai.android",
     "minimum_os": "10",
     "signing": "debug",
     "default_server_url": "ws://34.92.43.40:8080",
-    "source_commit": "e170795daa96caf6b6747be91d5405ee3b0c8bb7",
-    "file": "/downloads/cloud-poker-ai-android-3.0.30-44-e170795-debug.apk",
-    "sha256": "64e5aa02222b26801d4d03c8effc2fe95d2be16085a2dfe1d2ca898cc4911c94",
-    "bytes": 4795182
+    "source_commit": "116c50d754b726e2b665bb9b5966b60182c16cd5",
+    "file": "/downloads/cloud-poker-ai-android-3.0.31-47-116c50d-debug.apk",
+    "sha256": "a3e22756ea71dbeb3845698c3281be2e7dfaa385b07148eafcd0151a6dc30750",
+    "bytes": 4941753
   }
 }
